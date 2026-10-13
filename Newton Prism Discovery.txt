@@ -1,0 +1,9 @@
+Newton's Discovery of Light Dispersion
+
+In the late 1660s, while Cambridge University was closed due to the plague, Isaac Newton performed a series of famous experiments with prisms that forever changed our understanding of light. Before his work, many scientists believed that white light was a single, pure substance, and that colors were produced when light passed through glass. Newton set out to test this idea.
+
+In his most famous experiment, Newton allowed a narrow beam of sunlight to pass through a triangular glass prism in a darkened room. To his surprise, the prism spread the white light into a beautiful band of colors, which he named the spectrum. The colors appeared in a regular order: red, orange, yellow, green, blue, indigo, and violet.
+
+Newton then performed a crucial second step. He placed a second prism in the path of only one of the colored beams, such as red. Unlike the first prism, the second prism did not change the red light into any new colors. This proved that the colors were not created by the prism itself. Instead, they already existed inside the white light.
+
+From these experiments, Newton concluded that white light is actually a mixture of many different colors, each traveling at a slightly different angle when passing through glass. This phenomenon is known as dispersion. His discovery laid the foundation for modern optics and explained how rainbows form in the sky.
